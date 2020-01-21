@@ -3,6 +3,7 @@ La mayoría están escritos respetando el ANSI C y no se usan librerías fueras 
 
 Tabla de contenido
 ===
+- [Volver al listado de ejercicios](./README.md)
 - [Instalación](#instalación)
   
 - [Compilación](#compilación)
@@ -23,6 +24,8 @@ Puedes usar [Windows x86](https://parzibyte.me/blog/2019/08/16/instalar-compilad
 [Windows x64](https://parzibyte.me/blog/2018/09/27/instalar-gcc-64-bits-en-windows-con-mingw/),
 Linux o incluso [Android](https://parzibyte.me/blog/2019/03/23/instalar-gcc-gpp-compilador-c-cpp-android-termux/).
 
+[🏠 Ir al cielo](#tabla-de-contenido)
+
 # Compilación
 Para desarrollar en este lenguaje puedes usar bloc de notas, Sublime Text o VSCode. Recomiendo [VSCode](https://code.visualstudio.com/).
 
@@ -33,17 +36,20 @@ Con GCC puedes usar la terminal así:
 En donde **salida.exe** es el nombre del archivo ejecutable que quieres, y **código.c** es el
 nombre del archivo que tiene tu código fuente
 
+[🏠 Ir al cielo](#tabla-de-contenido)
 # Lista de ejercicios
 
 ## Varios
 - [Mayor y menor de 3 números](https://parzibyte.me/blog/2018/09/18/mayor-y-menor-3-numeros-c/)
 - [Obtener fecha actual](https://parzibyte.me/blog/2019/07/31/c-obtener-formatear-fecha-actual/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
 ## Traductores
 - [Traductor Morse](https://parzibyte.me/blog/2019/10/20/traductor-codigo-morse-c/)
 - [Texto a binario](https://parzibyte.me/blog/2019/12/16/texto-binario-c-pequeno-traductor/)
 - [Binario a texto](https://parzibyte.me/blog/2019/12/18/binario-texto-c-traductor/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
 
 # Matemáticos
 - [Separar parte entera y decimal](https://parzibyte.me/blog/2019/03/28/c-separar-parte-entera-decimal-de-numero-modf/)
@@ -61,6 +67,8 @@ nombre del archivo que tiene tu código fuente
 - [Máximo común divisor](https://parzibyte.me/blog/2019/12/18/maximo-comun-divisor-c-algoritmo-euclides/)
 - [Mínimo común múltiplo](https://parzibyte.me/blog/2019/12/19/minimo-comun-multiplo-c-codigo-demo/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
+
 ## Conversión de bases numéricas
 - [Binario a decimal](https://parzibyte.me/blog/2018/11/19/convertir-binario-decimal-c/)
 - [Decimal a binario](https://parzibyte.me/blog/2018/09/26/convertir-un-numero-decimal-a-binario-en-c/)
@@ -68,6 +76,7 @@ nombre del archivo que tiene tu código fuente
 - [Decimal a binario, octal y hexadecimal](https://parzibyte.me/blog/2018/09/28/decimal-a-binario-octal-y-hexadecimal-en-c-con-itoa-y-ltoa/)
 - [Hexadecimal a decimal](https://parzibyte.me/blog/2018/11/19/hexadecimal-decimal-c/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
 
 ## Arreglos
 - [Invertir arreglo](https://parzibyte.me/blog/2019/07/23/invertir-arreglo-ansi-c/)
@@ -83,6 +92,7 @@ nombre del archivo que tiene tu código fuente
 - [Elegir elemento aleatorio de arreglo](https://parzibyte.me/blog/2019/03/26/elemento-aleatorio-arreglo-c/)
 - [Mezclar arreglo](https://parzibyte.me/blog/2019/12/18/mezclar-arreglo-c-orden-aleatorio/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
 
 
 ## Matrices
@@ -90,6 +100,7 @@ nombre del archivo que tiene tu código fuente
 - [Sumatoria y promedio de matriz](https://parzibyte.me/blog/2019/10/28/sumatoria-promedio-matriz-c/)
 - [Producto de matrices](https://parzibyte.me/blog/2019/11/11/producto-matrices-c-multiplicacion/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
 
 ## Cadenas
 - [Separar cadena con delimitadores. Split](https://parzibyte.me/blog/2018/11/13/separar-cadena-delimitadores-c-strtok/)
@@ -103,11 +114,16 @@ nombre del archivo que tiene tu código fuente
 - [Número a cadena](https://parzibyte.me/blog/2018/11/28/numero-cadena-c/)
 - [Palíndromo](https://parzibyte.me/blog/2018/11/07/palindromo-en-c-usando-recursividad-y-ciclos/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
+
 ## Archivos
 - [Leer archivo](https://parzibyte.me/blog/2018/12/18/leer-archivo-c-fread/)
 - [Escribir archivo](https://parzibyte.me/blog/2019/10/16/escribir-archivo-con-c-usando-fprintf/)
+
+[🏠 Ir al cielo](#tabla-de-contenido)
 
 ## Estructura de datos
 - [Árbol binario](https://parzibyte.me/blog/2019/12/05/arbol-binario-c-insercion-recorrido/)
 - [Pila](https://parzibyte.me/blog/2018/11/12/pila-dinamica-en-c/)
 
+[🏠 Ir al cielo](#tabla-de-contenido)
