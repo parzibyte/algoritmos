@@ -66,6 +66,7 @@ nombre del archivo que tiene tu código fuente
 - [Número negativo a positivo](https://parzibyte.me/blog/2018/12/11/numero-positivo-absoluto-c/)
 - [Máximo común divisor](https://parzibyte.me/blog/2019/12/18/maximo-comun-divisor-c-algoritmo-euclides/)
 - [Mínimo común múltiplo](https://parzibyte.me/blog/2019/12/19/minimo-comun-multiplo-c-codigo-demo/)
+- [Número narcisista](https://parzibyte.me/blog/2018/11/28/numero-narcisista-en-c/)
 
 [🏠 Ir al cielo](#tabla-de-contenido)
 
