@@ -10,14 +10,14 @@ Tabla de contenido
   
 - [Lista de ejercicios](#lista-de-ejercicios)
   - [Varios](#varios)
-  - [Traductores](#traductores)
-  - [Matemáticos](#matemáticos)
-  - [Conversión de bases numéricas](#conversión-de-bases-numéricas)
-  - [Arreglos](#arreglos)
-  - [Matrices](#matrices)
-  - [Cadenas](#cadenas)
-  - [Archivos](#archivos)
-  - [Estructura de datos](#estructura-de-datos)
+  - [Traductores 📚](#traductores)
+  - [Matemáticos 🧮](#matemáticos)
+  - [Conversión de bases numéricas 🔢](#conversión-de-bases-numéricas)
+  - [Arreglos 📦](#arreglos)
+  - [Matrices📦📦](#matrices)
+  - [Cadenas 📖](#cadenas)
+  - [Archivos 📁](#archivos)
+  - [Estructura de datos 🌳](#estructura-de-datos)
 
 # Instalación
 Puedes usar [Windows x86](https://parzibyte.me/blog/2019/08/16/instalar-compilador-c-cpp-windows-32-bits/), 
