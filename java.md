@@ -32,3 +32,5 @@ Y después ejecutarlo con:
   - [Sumatoria y promedio de matriz](https://parzibyte.me/blog/2020/02/11/java-sumatoria-promedio-matriz/)
   - [Convertir octal a decimal](https://parzibyte.me/blog/2020/02/11/convertir-octal-decimal-java/)
   - [Convertir decimal a octal](https://parzibyte.me/blog/2020/02/21/java-convertir-decimal-octal/)
+  - [Convertir Hexadecimal a decimal](https://parzibyte.me/blog/2020/02/25/java-convertir-hexadecimal-decimal/)
+  - [Comprobar si String contiene únicamente letras](https://parzibyte.me/blog/2020/02/26/java-cadena-tiene-solo-letras/)
