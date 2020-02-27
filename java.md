@@ -35,3 +35,4 @@ Y después ejecutarlo con:
   - [Convertir Hexadecimal a decimal](https://parzibyte.me/blog/2020/02/25/java-convertir-hexadecimal-decimal/)
   - [Comprobar si String contiene únicamente letras](https://parzibyte.me/blog/2020/02/26/java-cadena-tiene-solo-letras/)
   - [Convertir Decimal a Hexadecimal](https://parzibyte.me/blog/2020/02/26/java-convertir-decimal-hexadecimal/)
+  - [Saber si cadena es Pangrama](https://parzibyte.me/blog/2020/02/27/pangrama-java/)
