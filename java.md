@@ -36,3 +36,4 @@ Y después ejecutarlo con:
   - [Comprobar si String contiene únicamente letras](https://parzibyte.me/blog/2020/02/26/java-cadena-tiene-solo-letras/)
   - [Convertir Decimal a Hexadecimal](https://parzibyte.me/blog/2020/02/26/java-convertir-decimal-hexadecimal/)
   - [Saber si cadena es Pangrama](https://parzibyte.me/blog/2020/02/27/pangrama-java/)
+  - [Media y mediana](https://parzibyte.me/blog/2020/02/28/media-mediana-java/)
